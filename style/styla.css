@@ -1,0 +1,46 @@
+*{
+	text-transform: capitalize;
+	margin: auto;
+	color: white;
+}
+h1{
+	text-align: center;
+	padding: 2rem 0rem ;
+}
+.center{
+	margin: auto;
+	text-align: center;
+	margin-left: 43rem;
+	margin-top: 2rem;
+}
+form{
+	margin-left: 1rem;
+display: flex;
+justify-content: center;
+justify-content: space-around;
+padding: 2rem 1rem ;
+}
+button{
+	margin-left: -77rem;
+}
+a{
+	text-align: center;
+	text-decoration: none;
+	color: aqua;
+	font-size: 1.7rem;
+}
+footer{
+	text-align: center;
+	padding: 2rem auto;
+	margin-top: 2rem;
+	color: aqua;
+}
+body{
+	background-image: url(img/1.jpg);
+	background-size: cover;
+	color: white;
+}
+table{
+	border-radius: 3px  solid white;
+	color: white;	
+}

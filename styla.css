@@ -1,0 +1,22 @@
+<div class="card">
+            <img src="img/16.png" class="card-img-top" alt="startransport">
+            <div class="card-body">
+                <h5 class="card-title">Tiket Bus</h5>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item">Kode Tiket: ' . htmlspecialchars($kdTiket) . '</li>
+                    <li class="list-group-item">Nama Penumpang: ' . htmlspecialchars($penumpang) . '</li>
+                    <li class="list-group-item">No Telepon: ' . htmlspecialchars($noTlp) . '</li>
+                    <li class="list-group-item">Nama Bus: ' . htmlspecialchars($nmBus) . '</li>
+                    <li class="list-group-item">No Kursi: ' . htmlspecialchars($noKursi) . '</li>
+                    <li class="list-group-item">Kelas: ' . htmlspecialchars($kelas) . '</li>
+                    <li class="list-group-item">Tujuan: ' . htmlspecialchars($tujuan) . '</li>
+                    <li class="list-group-item">Tanggal Berangkat: ' . htmlspecialchars($tglBerangkat) . '</li>
+                    <li class="list-group-item">Waktu Berangkat: ' . htmlspecialchars($wktBerangkat) . '</li>
+                    <li class="list-group-item">Harga Tiket: ' . htmlspecialchars($hrgTiket) . '</li>
+                </ul>
+                <div class="card-body">
+                    <a href="#" class="card-link">Card link</a>
+                    <a href="#" class="card-link">Another link</a>
+                </div>
+            </div>
+        </div>
